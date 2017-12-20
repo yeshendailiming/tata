@@ -1,4 +1,8 @@
 hello
 good
+<<<<<<< HEAD
 merge 1 and 2 and 3
+=======
+merge 1 and 2 and something that my partner don't know
+>>>>>>> c5bf1971c868f08dc05e07e589f1a1d26b17173d
 history
